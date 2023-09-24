@@ -21,7 +21,6 @@ import java.util.Scanner;
 	12345678
 	123456789
 	12345678910
-	temp note
  * 
  */
 
